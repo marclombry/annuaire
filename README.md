@@ -1,2 +1,2 @@
 # annuaire
-petit tableau d'annuaire en php
+petit tableau d'annuaire en php et mysql
